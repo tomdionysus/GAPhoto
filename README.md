@@ -15,4 +15,4 @@ Over a long enough runtime, the render of the set of polygons will approximate t
 ## Credits
 
 * Original code 2012 - Tom Cully
-* 2018 Repack and update for Visual Studio - Ciarán Irvine
+* 2018 Repack and update for Visual Studio - [Ciarán Irvine](https://github.com/cirvine)
